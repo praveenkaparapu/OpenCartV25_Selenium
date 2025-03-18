@@ -1,0 +1,5 @@
+22:30:00.016 [main] INFO  testCases.TC001_AccountRegistrationTest - *****started the test case******
+22:30:00.868 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my account link
+22:30:04.326 [main] INFO  testCases.TC001_AccountRegistrationTest - clickedd on registration link 
+22:30:08.371 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+22:30:08.431 [main] INFO  testCases.TC001_AccountRegistrationTest - *****finished test case execution*******
